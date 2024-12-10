@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "descripcion": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "descripcion": "1,5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "descripcion": "30 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "¿Qué significa ser un Desarrollador Full Stack?",
+      "descripcion": "2,5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/eejIHbOk_uI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Como utilizar el Display block, inline, inline-block #aluramás",
+      "descripcion": "1,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/AG2QssLpQzI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "descripcion": "1,6 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+      "descripcion": "3,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "Cómo evitar robo de vehículo con Inteligencia Artificial | #aluramás",
+      "descripcion": "1,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/5T_Q_NtNLZE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Descubre el poder del Machine Learning",
+      "descripcion": "1 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/edS0Fhg0xyM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Desvelando los secretos del Chat GPT: La revolución de la IA",
+      "descripcion": "9 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/0_y09AwR6ns",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "descripcion": "4 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/ew1mwLviTWY",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Empresas que aprenden | #aluramás",
+      "descripcion": "7 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Death Metal X Violin Symphonic - Una fusión oscura y majestuosa 🎻⚡💀",
+      "descripcion": "487 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/qwHyfcCvBFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "id": "4655",
+      "titulo": "Heavy Metal X Violin Symphonic – A Symphony of Power and Passion 🎻⚡🎸",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/8PEJHoj-BKE",
+      "imagen": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    }
+  ]
+}
